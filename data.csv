@@ -1,0 +1,377 @@
+ID,Type,MAT,TS,CT,TM,Shape,Size,ZP,DE_Tmax,DE_Tmax_PK,DE_24,DE_168,DE_Max
+1,Inorganic,Gold,Active,Cervix,XH,Rod,1.38,-18,2.06,1.97,1.69,2.06,2.36
+9,Inorganic,Gold,Active,Brain,XH,Other,1.38,-21.3,1.63,1.57,1.58,0.65,1.87
+9,Inorganic,Gold,Passive,Brain,XH,Other,1.41,21.7,0.61,0.59,0.57,0.26,0.69
+9,Inorganic,Gold,Passive,Brain,XH,Other,1.32,24.6,0.55,0.51,0.54,0.22,0.61
+9,Inorganic,Gold,Passive,Brain,XH,Other,1.26,25.4,0.38,0.36,0.4,0.15,0.43
+100,Organic,Hydrogels,Passive,Liver,AH,Spherical,1.94,-30,0.44,0.44,0.44,0.19,0.56
+101,Organic,Hydrogels,Active,Liver,AH,Spherical,2.14,9,0.24,0.25,0.26,0.11,0.3
+101,Organic,Hydrogels,Passive,Liver,AH,Spherical,2.16,9,0.22,0.22,0.22,0.19,0.25
+102,Organic,Hydrogels,Active,Lung,XH,Spherical,2.3,-14.6,0.48,0.37,0.23,0.69,0.87
+103,Organic,Hydrogels,Active,Pancreas,XH,Spherical,2.36,-18.1,2.56,2.4,2.56,0.69,3.06
+103,Organic,Hydrogels,Passive,Pancreas,XH,Spherical,2.25,-22.3,1.65,1.39,1.65,0.44,2
+103,Organic,Hydrogels,Passive,Pancreas,XH,Spherical,2.12,-24.6,1.08,0.84,1.08,0.3,1.3
+104,Organic,Hydrogels,Passive,Liver,AH,Spherical,2.12,-34.2,0.67,0.68,0.76,0.6,0.89
+105,Organic,Hydrogels,Passive,Liver,AH,Spherical,2.29,-25.7,0.17,0.18,0.25,0.12,0.29
+106,Organic,Dendrimers,Passive,Ovary,XO,Spherical,0.9,-1.3,10.77,9.87,10.01,10.77,12.6
+106,Organic,Polymeric,Passive,Ovary,XO,Spherical,0.82,-1.5,4.09,3.23,4.09,1.49,4.75
+107,Organic,Dendrimers,Passive,Colon,AH,Spherical,1.23,-6.5,1.3,1.37,1.3,0.56,1.71
+107,Organic,Dendrimers,Passive,Colon,AH,Spherical,0.77,19.8,0.26,0.27,0.26,0.08,0.27
+108,Organic,Dendrimers,Active,Cervix,XH,Spherical,0.7,,7.96,7.97,6.37,7.96,9.33
+108,Organic,Dendrimers,Passive,Cervix,XH,Spherical,0.7,,1.94,2.09,2.81,1.94,3.31
+10,Inorganic,Gold,Active,Stomach,XH,Spherical,0.79,-5,9.1,9.52,10.68,9.1,12.46
+21,Inorganic,Gold,Active,Brain,XH,Spherical,1.86,6.1,0.03,0.03,0.05,0.03,0.06
+22,Inorganic,Gold,Passive,Skin,AO,Spherical,0.7,,2.93,3.08,3.61,2.32,3.84
+22,Inorganic,Gold,Passive,Skin,AO,Spherical,0.7,,1.75,1.85,2.05,1.38,2.26
+22,Inorganic,Gold,Passive,Skin,AO,Spherical,0.7,2.5,1.69,1.81,1.99,1.34,2.19
+22,Inorganic,Gold,Passive,Skin,AO,Spherical,1.34,,1.03,1.21,1.69,0.83,2.01
+22,Inorganic,Gold,Passive,Prostate,XH,Spherical,1.34,,0.62,0.63,0.96,0.53,1.14
+22,Inorganic,Gold,Passive,Skin,AO,Spherical,1.04,,0.28,0.24,0.44,0.23,0.53
+110,Organic,Other OM,Passive,Brain,XH,Rod,1.98,-36,0.05,0.05,0.06,0.03,0.08
+109,Organic,Polymeric,Passive,Ovary,XO,Spherical,1.21,-19.2,2.34,3.34,6.01,2.34,6.91
+111,Organic,Other OM,Passive,Breast,AH,Rod,2.21,-4.3,3.52,3.41,3.52,1.26,4.02
+111,Organic,Other OM,Passive,Breast,AH,Rod,2.34,-4.3,2.81,2.81,2.81,0.91,3.14
+111,Organic,Other OM,Passive,Breast,AH,Rod,2.51,-4.3,2.43,2.33,2.43,0.78,2.7
+111,Organic,Other OM,Passive,Breast,AH,Rod,2.6,-4.3,2.16,2.04,2.16,0.71,2.45
+112,Organic,Other OM,Active,Lung,XH,Spherical,2.23,-0.8,0.41,0.38,0.41,0.06,0.47
+112,Organic,Other OM,Passive,Lung,XH,Spherical,2.13,0.6,0.39,0.36,0.39,0.12,0.44
+112,Organic,Other OM,Passive,Lung,XH,Spherical,1.93,71.3,0.14,0.15,0.14,0.04,0.17
+113,Organic,Other OM,Passive,Other,AH,Spherical,2.59,-46.6,0.05,0.04,0.05,0.02,0.05
+23,Inorganic,Gold,Active,Skin,AO,Spherical,0.43,-18.4,1.55,2.04,2.02,1.27,2.23
+23,Inorganic,Gold,Active,Skin,AO,Spherical,0.43,-22.1,1.2,1.62,1.26,0.76,1.46
+23,Inorganic,Gold,Passive,Skin,AO,Spherical,0.43,-42.3,1.15,1.51,1.25,0.63,1.44
+23,Inorganic,Gold,Active,Skin,AO,Spherical,0.43,-25.6,1.02,1.36,1.24,0.56,1.37
+23,Inorganic,Gold,Active,Skin,AO,Spherical,0.43,-16.6,0.87,1.15,0.99,0.45,1.15
+23,Inorganic,Gold,Passive,Skin,AO,Spherical,0.43,-16.8,0.68,0.95,0.64,0.58,0.71
+11,Inorganic,Gold,Passive,Breast,AH,Spherical,1.84,0,4.02,1.74,4.02,2.11,6.09
+11,Inorganic,Gold,Passive,Breast,AH,Other,2.05,0,1.65,0.62,1.65,0.55,2.14
+11,Inorganic,Gold,Passive,Breast,AH,Plate,2.12,0,1.23,0.46,1.23,0.37,1.46
+11,Inorganic,Gold,Passive,Breast,AH,Rod,1.89,0,0.47,0.15,0.47,0.17,0.61
+114,Organic,Polymeric,Active,Brain,XO,Spherical,2.27,-29.5,0.89,0.9,0.89,0.31,1
+114,Organic,Polymeric,Active,Brain,XO,Spherical,2.24,-27.2,0.61,0.61,0.61,0.22,0.72
+114,Organic,Polymeric,Passive,Brain,XO,Spherical,2.23,-32.8,0.54,0.54,0.54,0.23,0.72
+114,Organic,Polymeric,Passive,Brain,XO,Spherical,2.22,-30.5,0.43,0.43,0.43,0.2,0.63
+115,Organic,Polymeric,Passive,Breast,AH,Spherical,2.13,,0.03,0.03,0.03,0.01,0.03
+176,Organic,Other OM,Active,Skin,AO,Spherical,2.17,-20.5,2.24,2,2.03,0.54,2.39
+176,Organic,Other OM,Active,Skin,AO,Spherical,2.2,-18.1,1.46,1.11,1.33,0.35,1.57
+24,Inorganic,Gold,Active,Skin ,AO,Rod,1.71,3,2.51,2.43,2.51,5.56,6.85
+116,Organic,Polymeric,Passive,Breast,AH,Spherical,2.24,-22.9,0.03,0.03,0.03,0.01,0.04
+117,Organic,Polymeric,Passive,Breast,XO,Spherical,2.01,-3.4,7.3,6.94,7.3,2.06,8.27
+117,Organic,Polymeric,Passive,Breast,XO,Spherical,1.98,-3.4,2.65,2.76,2.65,0.72,3.03
+117,Organic,Polymeric,Passive,Breast,XO,Spherical,2.02,-3.4,1.2,1.39,1.2,0.33,1.39
+117,Organic,Polymeric,Passive,Breast,XO,Spherical,1.97,-3.4,0.78,0.85,0.78,0.21,0.9
+117,Organic,Polymeric,Passive,Breast,XO,Spherical,1.99,-3.4,0.17,0.14,0.17,0.05,0.2
+25,Inorganic,Gold,Passive,Breast,AH,Spherical,1.34,-25.9,1.2,1.17,1.2,0.41,1.29
+34,Inorganic,Iron Oxide,Active,Stomach,XH,Spherical,1.35,-4.6,9.46,9.36,9.13,8.65,10.69
+34,Inorganic,Iron Oxide,Active,Stomach,XH,Spherical,1.45,-0.6,7.2,7.42,8.1,5.56,9.19
+34,Inorganic,Iron Oxide,Active,Stomach,XH,Spherical,1.6,-4.5,5.2,5.26,4.88,4.79,5.74
+34,Inorganic,Iron Oxide,Active,Stomach,XH,Spherical,1.61,-3.3,5,4.97,4.84,4.56,5.46
+118,Organic,Polymeric,Active,Lung,AH,Spherical,2.27,-24.7,0.16,0.16,0.16,0.04,0.19
+118,Organic,Polymeric,Passive,Lung,AH,Spherical,2.25,-23.1,0.07,0.07,0.07,0.02,0.09
+12,Inorganic,Gold,Passive,Breast,XO,Spherical,0.74,0,1.26,1.24,1.54,0.41,1.74
+119,Organic,Polymeric,Passive,Colon,AH,Spherical,2.03,-2.3,1.61,1.56,1.22,0.65,2.15
+120,Organic,Polymeric,Passive,Colon,AH,Spherical,1.7,0.1,0.35,0.37,0.4,0.11,0.45
+121,Organic,Polymeric,Active,Breast,AO,Spherical,1.74,-17,1.46,1.43,1.46,0.47,1.59
+121,Organic,Polymeric,Passive,Breast,AO,Spherical,1.7,-20,0.95,0.94,0.95,0.3,1.02
+162,Organic,Liposomes,Passive,Other,AO,Spherical,2.2,-17.4,0.02,0.02,0.02,0.01,0.03
+122,Organic,Polymeric,Passive,Breast,AO,Spherical,1.6,,0.47,0.44,0.47,0.28,0.59
+184,Organic,Other OM,Active,Breast,XH,Rod,2.38,-10,14.59,14.1,14.59,6.34,18.76
+184,Organic,Other OM,Active,Breast,XH,Rod,2.38,3.8,14.53,13.92,14.53,6.2,18.48
+184,Organic,Other OM,Passive,Breast,XH,Rod,2.36,-10,6.67,6.56,6.67,2.39,7.72
+184,Organic,Other OM,Passive,Breast,XH,Rod,2.36,,6.58,6.42,6.58,2.39,7.73
+184,Organic,Other OM,Passive,Breast,XH,Rod,2.38,0,6.04,5.88,6.04,2.21,7.22
+185,Organic,Other OM,Active,Colon,XH,Spherical,2.31,-20,0.73,0.71,0.71,0.27,0.87
+172,Organic,Dendrimers,Active,Breast,XH,Spherical,0.89,,11.04,10.42,11.04,4.66,13.83
+172,Organic,Dendrimers,Active,Breast,XH,Spherical,0.89,,8.78,8.19,8.78,3.52,10.91
+172,Organic,Dendrimers,Active,Breast,XH,Spherical,0.89,,6.05,5.89,6.05,1.92,7.13
+123,Organic,Polymeric,Passive,Colon,AH,Spherical,1.69,-1.3,0.84,0.83,0.92,0.29,1
+124,Organic,Polymeric,Passive,Liver,AH,Spherical,2.06,-20,0.01,0.02,0.01,0.003,0.02
+13,Inorganic,Gold,Active,Skin,XO,Spherical,1.49,,2.25,2.23,1.53,2.25,2.52
+163,Organic,Liposomes,Passive,Colon,AH,Spherical,2.02,-15,0.25,0.2,0.29,0.08,0.33
+163,Organic,Liposomes,Passive,Colon,AH,Spherical,2.01,-39.5,0.21,0.19,0.24,0.07,0.28
+125,Organic,Polymeric,Passive,Cervix,XH,Spherical,2,-4,1.07,1.01,1.07,0.44,1.36
+125,Organic,Polymeric,Passive,Cervix,XH,Spherical,2.04,-4,1.06,1,1.06,0.45,1.37
+125,Organic,Polymeric,Passive,Cervix,XH,Spherical,2.18,-4,1.03,0.98,1.03,0.7,1.63
+125,Organic,Polymeric,Passive,Cervix,XH,Spherical,2,-4,0.78,0.81,0.78,1.63,2.32
+125,Organic,Polymeric,Passive,Cervix,XH,Spherical,1.54,-4,0.28,0.3,0.28,0.09,0.34
+55,Inorganic,Other IM,Passive,Breast,AH,Spherical,2.18,-19,1.74,1.69,1.74,0.48,1.98
+126,Organic,Polymeric,Passive,Cervix,AH,Spherical,2.03,,0.31,0.3,0.31,0.12,0.35
+127,Organic,Polymeric,Passive,Colon,XH,Other,1.2,,0.13,1.39,0.31,0.12,1.97
+186,Organic,Other OM,Passive,Liver,AH,Spherical,2.06,-31.8,0.08,0.08,0.08,0.03,0.08
+128,Organic,Polymeric,Passive,Breast,AO,Spherical,2.05,10,0.24,0.25,0.24,0.06,0.28
+177,Organic,Other OM,Active,Breast,AO,Spherical,2.15,21.7,0.03,0.03,0.03,0.01,0.04
+173,Organic,Dendrimers,Active,Other,AO,Spherical,1.84,36.7,16.7,16.23,15.02,14.37,18.75
+173,Organic,Dendrimers,Passive,Other,AO,Spherical,0.83,16.3,4.71,4.57,4.09,3.79,5.47
+187,Organic,Other OM,Passive,Breast,AH,Spherical,2.26,34.4,0.25,0.25,0.24,0.06,0.28
+14,Inorganic,Gold,Passive,Breast,AH,Other,1.8,10.2,2.67,2.45,2.67,0.8,3.07
+14,Inorganic,Gold,Passive,Breast,AH,Other,1.98,18.7,0.48,0.44,0.48,0.14,0.52
+129,Organic,Polymeric,Active,Liver,AH,Spherical,2.2,-8.8,0.23,0.22,0.23,0.06,0.26
+129,Organic,Polymeric,Passive,Liver,AH,Spherical,2.18,-10.3,0.12,0.12,0.12,0.03,0.14
+130,Organic,Polymeric,Passive,Other,AO,Spherical,2.19,,0.12,0.13,0.11,0.03,0.12
+130,Organic,Polymeric,Passive,Other,AO,Spherical,2.13,,0.07,0.08,0.07,0.02,0.08
+164,Organic,Liposomes,Passive,Breast,AH,Spherical,2.11,5,0.14,0.14,0.42,0.18,0.59
+164,Organic,Liposomes,Passive,Breast,AH,Spherical,2.14,-14,0.13,0.13,0.3,0.12,0.39
+164,Organic,Liposomes,Passive,Breast,AH,Spherical,1.95,-40,0.1,0.09,0.17,0.06,0.2
+131,Organic,Polymeric,Passive,Liver,AH,Spherical,1.31,3.9,0.01,0.01,0.01,0.003,0.01
+26,Inorganic,Gold,Passive,Prostate,XH,Other,1.7,-9.2,4.12,3.83,4.37,1.96,5.76
+26,Inorganic,Gold,Passive,Prostate,XH,Rod,1.17,-11,3.18,2.81,3.11,1.86,3.92
+132,Organic,Polymeric,Active,Liver,XH,Spherical,2.05,-6.2,0.22,0.21,0.22,0.11,0.34
+132,Organic,Polymeric,Passive,Liver,XH,Spherical,2.04,-5.1,0.16,0.15,0.16,0.07,0.22
+133,Organic,Polymeric,Passive,Colon,AH,Spherical,2.02,-4.8,0.45,0.46,0.4,0.18,0.55
+134,Organic,Polymeric,Active,Liver,XH,Spherical,2.17,0,0.43,0.43,0.43,0.12,0.47
+134,Organic,Polymeric,Passive,Liver,XH,Spherical,2.16,0,0.31,0.32,0.31,0.08,0.36
+134,Organic,Polymeric,Passive,Liver,XH,Spherical,2.16,0,0.31,0.31,0.31,0.08,0.36
+178,Organic,Other OM,Active,Liver,XH,Spherical,2,-23.1,0.04,0.04,0.04,0.02,0.05
+178,Organic,Other OM,Active,Liver,XH,Spherical,2,-23.1,0.04,0.04,0.05,0.04,0.05
+174,Organic,Dendrimers,Active,Colon,AH,Spherical,2.17,18.4,29.8,31.15,50.03,23.83,56.89
+174,Organic,Dendrimers,Passive,Colon,AH,Spherical,2.36,30.3,7.06,6.88,7.77,2.21,8.62
+15,Inorganic,Gold,Passive,Prostate,XH,Spherical,1.82,-2.6,0.67,0.64,0.67,0.21,0.79
+15,Inorganic,Gold,Passive,Prostate,XH,Spherical,1.8,-27.1,0.6,0.59,0.6,0.17,0.71
+15,Inorganic,Gold,Active,Prostate,XH,Spherical,1.86,-2.9,0.61,0.55,0.61,0.21,0.85
+15,Inorganic,Gold,Passive,Prostate,XH,Spherical,1.78,-10.6,0.03,0.03,0.03,0.04,0.07
+56,Inorganic,Other IM,Active,cervix,XH,Rod,2.22,-14.6,0.23,0.23,0.23,0.06,0.28
+135,Organic,Polymeric,Active,Lung,XH,Spherical,2.36,28.3,0.31,0.31,0.3,0.23,0.55
+135,Organic,Polymeric,Active,Lung,XH,Spherical,2.36,28.3,0.2,0.2,0.22,0.15,0.34
+135,Organic,Polymeric,Passive,Lung,XH,Spherical,2.03,35.6,0.16,0.16,0.16,0.12,0.28
+135,Organic,Polymeric,Passive,Lung,XH,Spherical,2.03,35.6,0.15,0.15,0.2,0.11,0.28
+136,Organic,Polymeric,Passive,Breast,AH,Spherical,1.98,0,0.75,0.52,0.92,0.24,1.11
+137,Organic,Polymeric,Active,Liver,AH,Spherical,2.12,-2.3,0.31,0.32,0.31,0.12,0.37
+137,Organic,Polymeric,Passive,Liver,AH,Spherical,2.1,-7.4,0.2,0.19,0.2,0.33,0.37
+179,Organic,Other OM,Active,Prostate,XH,Spherical,2.1,,0.25,0.24,0.23,0.06,0.26
+138,Organic,Polymeric,Passive,Liver,AH,Spherical,2.26,-22.6,6.26,5.4,6.26,1.69,7.32
+57,Inorganic,Other IM,Passive,Other,AO,Spherical,2.05,-9.8,0.74,0.75,0.76,0.22,0.87
+57,Inorganic,Other IM,Passive,Other,AO,Spherical,2.16,-12.7,0.58,0.59,0.56,0.15,0.65
+58,Inorganic,Other IM,Passive,Cervix,XH,Spherical,2.64,-14.4,1.99,1.99,1.99,0.81,2.44
+27,Inorganic,Gold,Passive,Skin,AO,Spherical,0.65,,7.84,7.13,3.5,7.84,9
+139,Organic,Polymeric,Active,Liver,AH,Spherical,2.18,0,1.15,1.14,1.15,0.54,1.58
+139,Organic,Polymeric,Passive,Liver,AH,Spherical,2.18,0,0.69,0.67,0.69,0.3,0.95
+139,Organic,Polymeric,Active,Liver,AH,Spherical,2.21,0,0.58,0.56,0.58,0.25,0.77
+16,Inorganic,Gold,Passive,Other,XH,Spherical,1.8,0,0.37,0.35,0.37,0.13,0.49
+165,Organic,Liposomes,Active,Prostate,XH,Spherical,2.01,-12.2,0.4,0.4,0.36,0.16,0.49
+165,Organic,Liposomes,Passive,Prostate,XH,Spherical,1.97,-32.2,0.15,0.15,0.14,0.06,0.19
+188,Organic,Other OM,Active,Liver,AH,Spherical,2.12,-8.2,0.09,0.1,0.08,0.02,0.1
+188,Organic,Other OM,Active,Liver,AH,Spherical,2.26,-20.3,0.08,0.08,0.07,0.02,0.08
+189,Organic,Other OM,Passive,Liver,AH,Spherical,1.74,-22.3,1.41,1.18,1.21,0.32,1.46
+166,Organic,Liposomes,Active,Cervix,XH,Spherical,1.09,27.2,3.67,3.98,3.67,1.14,4.23
+180,Organic,Other OM,Active,Other,AO,Spherical,2.15,-31,4,4.15,3.75,0.1,4.42
+180,Organic,Other OM,Active,Other,AO,Spherical,2.13,-35.1,3.09,2.83,2.86,0.77,3.43
+181,Organic,Hydrogels,Active,Liver,AH,Spherical,2.34,-30.1,0.05,0.05,0.05,0.02,0.06
+181,Organic,Hydrogels,Passive,Liver,AH,Spherical,2.09,-30.1,0.04,0.04,0.04,0.01,0.04
+140,Organic,Polymeric,Passive,Other,AH,Spherical,1.11,,1.77,1.79,1.42,1.78,1.95
+140,Organic,Polymeric,Passive,Other,AH,Spherical,0.6,,0.56,0.56,0.47,0.54,0.64
+141,Organic,Polymeric,Active,Breast,XH,Spherical,2.18,-22.1,0.17,0.17,0.17,0.06,0.18
+142,Organic,Polymeric,Active,Liver,AH,Spherical,2.17,,0.3,0.3,0.3,0.08,0.31
+142,Organic,Polymeric,Passive,Liver,AH,Spherical,2.16,,0.21,0.21,0.21,0.06,0.23
+190,Organic,Other OM,Active,Lung,XH,Spherical,2.21,-31.1,0.09,0.09,0.11,0.04,0.12
+17,Inorganic,Gold,Passive,Prostate,XH,Rod,1.18,-10,1.41,1.3,1.2,1.45,1.66
+17,Inorganic,Gold,Active,Prostate,XH,Rod,1.18,-44.1,0.26,0.25,0.28,0.18,0.33
+143,Organic,Polymeric,Passive,Skin,AO,Spherical,2.22,-36.7,0.15,0.15,0.15,0.06,0.18
+191,Organic,Other OM,Passive,Breast,AH,Spherical,2.13,-27.1,0.05,0.05,0.05,0.01,0.06
+192,Organic,Other OM,Active,Other,AO,Plate,1.51,-6,0.18,0.17,0.18,0.05,0.2
+192,Organic,Other OM,Passive,Other,AO,Plate,1.51,-6,0.13,0.13,0.13,0.03,0.14
+144,Organic,Polymeric,Passive,Colon,XH,Spherical,1.98,-13,0.19,0.23,0.49,0.19,0.53
+145,Organic,Polymeric,Active,Skin,AO,Spherical,2.18,0,0.73,0.69,0.73,0.2,0.82
+145,Organic,Polymeric,Passive,Skin,AO,Spherical,2.18,0,0.4,0.38,0.4,0.11,0.45
+160,Organic,Polymeric,Passive,Breast,AO,Spherical,2.16,-22.7,0.18,0.14,0.18,0.05,0.22
+59,Inorganic,Other IM,Passive,Colon,AH,Spherical,1.9,-0.5,0.96,0.89,0.76,1.84,2.44
+42,Inorganic,Silica,Passive,Breast,AO,Spherical,2.41,-27.6,0.23,0.22,0.2,0.18,0.26
+146,Organic,Polymeric,Active,Liver,AH,Spherical,2.24,8.7,0.22,0.24,0.22,0.06,0.25
+146,Organic,Polymeric,Passive,Liver,AH,Spherical,2.22,12.3,0.15,0.17,0.15,0.04,0.16
+18,Inorganic,Gold,Passive,Ovary,XO,Rod,1,1.1,3.98,6.47,9.48,3.98,1.69
+18,Inorganic,Gold,Passive,Ovary,XO,Spherical,1.95,-27.1,0.47,0.64,1.5,0.47,10.28
+193,Organic,Other OM,Active,Liver,AH,Spherical,2.34,-38,0.46,0.44,0.55,0.15,0.61
+193,Organic,Other OM,Passive,Liver,AH,Spherical,2.31,-26.9,0.37,0.34,0.45,0.12,0.52
+194,Organic,Other OM,Passive,Liver,AH,Spherical,2.27,-19,0.008,0.008,0.008,0.003,0.008
+167,Organic,Liposomes,Passive,Breast,XH,Plate,1.75,0,0.4,0.38,0.4,0.26,0.45
+147,Organic,Polymeric,Passive,Breast,AH,Spherical,1.31,-2,0.77,0.75,0.62,0.78,0.86
+148,Organic,Polymeric,Active,Liver,AH,Spherical,2.3,-20.4,2.62,2.63,2.81,1.18,3.22
+148,Organic,Polymeric,Active,Liver,AH,Spherical,2.44,-23.5,2.25,2.29,2.31,1.04,2.63
+148,Organic,Polymeric,Active,Liver,AH,Spherical,2.54,-27.2,0.96,0.94,1.01,0.42,1.16
+149,Organic,Polymeric,Passive,Liver,AH,Spherical,2.19,-23.7,3.99,4.01,4.08,2.04,4.64
+149,Organic,Polymeric,Passive,Liver,AH,Spherical,2.41,-23.7,2.65,2.6,2.76,1.26,3.13
+195,Organic,Other OM,Active,Breast,XH,Spherical,1.95,-15.6,1.31,1.28,1.18,1.23,1.46
+43,Inorganic,Silica,Passive,Liver,XH,Spherical,2.32,27,0.9,0.88,0.9,0.24,1.08
+168,Organic,Liposomes,Passive,Other,XH,Spherical,2.06,-36.4,0.24,0.25,0.26,0.1,0.31
+44,Inorganic,Silica,Passive,Skin,AO,Spherical,2.39,-11.7,6.29,6.06,3.81,4.96,9.42
+19,Inorganic,Gold,Passive,Skin,XO,Spherical,1.92,0,0.92,0.94,0.92,0.28,1.07
+19,Inorganic,Gold,Passive,Skin,XO,Spherical,1.6,0,1.86,0.8,1.86,0.5,2.18
+19,Inorganic,Gold,Passive,Skin,XO,Spherical,1.79,0,0.7,0.7,0.7,1.28,1.83
+19,Inorganic,Gold,Passive,Skin,XO,Spherical,2,0,0.97,0.59,0.97,0.27,1.15
+19,Inorganic,Gold,Passive,Skin,XO,Spherical,1.35,0,0.02,0.02,0.02,0.01,0.03
+150,Organic,Polymeric,Active,Lung,XH,Spherical,2.27,21.1,23.83,23.81,23.83,7.47,26.47
+150,Organic,Polymeric,Passive,Lung,XH,Spherical,2.22,25.1,10.72,10.14,10.72,3,12.14
+169,Organic,Liposomes,Passive,Other,XH,Spherical,2.05,-39.7,4.42,4.39,4.82,1.66,5.26
+151,Organic,Polymeric,Passive,Breast,AH,Spherical,2.09,-15,1.36,1.46,1.36,0.45,1.62
+170,Organic,Liposomes,Active,Ovary,XH,Spherical,1.9,-36.9,0.29,0.59,0.29,0.08,0.33
+170,Organic,Liposomes,Passive,Ovary,XH,Spherical,1.76,34.5,0.19,0.39,0.19,0.05,0.22
+152,Organic,Polymeric,Passive,Liver,AH,Spherical,2.03,23.3,0.89,0.82,0.89,0.24,1.02
+152,Organic,Polymeric,Active,Liver,AH,Spherical,2.28,26.1,0.65,0.65,0.65,0.17,0.75
+196,Organic,Other OM,Passive,Liver,AH,Rod,2.23,24.2,0.83,0.8,0.83,0.22,0.99
+197,Organic,Polymeric,Passive,Liver,XH,Spherical,1.27,-1.8,1.01,1.01,1.01,0.35,1.14
+45,Inorganic,Silica,Passive,Breast,AO,Spherical,2.03,-14,2.08,2.12,2.08,0.56,2.38
+153,Organic,Polymeric,Passive,Liver,AH,Spherical,2.14,-15.6,0.32,0.31,0.29,0.08,0.34
+153,Organic,Polymeric,Passive,Liver,AH,Spherical,2.11,-9.1,0.26,0.24,0.23,0.06,0.27
+154,Organic,Polymeric,Active,Breast,XO,Spherical,2.08,-2.4,0.17,0.16,0.17,0.04,0.2
+28,Inorganic,Iron Oxide,Active,Skin,XO,Spherical,1.39,-28.6,1.07,1.09,0.99,0.85,1.17
+198,Organic,Other OM,Passive,Lung,XH,Spherical,1.73,0,0.21,0.21,0.22,0.06,0.25
+171,Organic,Liposomes,Passive,Breast,XH,Spherical,2.05,-53.2,0.12,0.1,0.11,0.03,0.13
+171,Organic,Liposomes,Passive,Breast,XH,Spherical,2.36,-52.4,0.08,0.07,0.08,0.02,0.09
+171,Organic,Liposomes,Passive,Breast,XH,Spherical,2.58,-53.9,0.07,0.05,0.06,0.02,0.07
+46,Inorganic,Silica,Active,Breast,AO,Rod,2.32,24.1,16.54,16.64,11.46,11.91,22.71
+46,Inorganic,Silica,Passive,Breast,AO,Rod,2.32,24.1,6.69,6.35,5.59,6.65,8.26
+155,Organic,Polymeric,Passive,Prostate,XH,Spherical,1.98,0,2.79,2.89,3.84,2.6,4.42
+156,Organic,Polymeric,Active,Cervix,XH,Spherical,1.3,5,3.35,3.21,3.35,0.96,3.73
+156,Organic,Polymeric,Passive,Cervix,XH,Spherical,1.3,5,1.71,1.67,1.71,0.48,1.83
+157,Organic,Polymeric,Passive,Colon,AH,Spherical,2.08,-18,0.18,0.15,0.18,0.05,0.26
+60,Inorganic,Other IM,Passive,Colon,AH,Spherical,1.69,0,0.3,0.31,0.35,0.23,0.4
+158,Organic,Polymeric,Passive,Other,AO,Spherical,2.45,-9.7,0.13,0.17,0.13,0.03,0.15
+61,Inorganic,Other IM,Active,Breast,XH,Spherical,2.31,-25.5,0.05,0.04,0.1,0.03,0.12
+182,Organic,Hydrogels,Active,Liver,AH,Spherical,1.9,-40,0.45,0.43,0.61,0.32,0.72
+182,Organic,Hydrogels,Active,Liver,AH,Spherical,1.82,-40,0.22,0.2,0.32,0.14,0.39
+29,Inorganic,Iron Oxide,Active,Breast,XH,Spherical,1.2,,2.8,0.7,2.15,2.17,3.7
+159,Organic,Polymeric,Passive,Cervix,XH,Spherical,2.21,-19.6,17.16,17.34,13.74,13.57,21.12
+159,Organic,Polymeric,Passive,Cervix,XH,Spherical,2.07,-13.7,14.68,14.59,11.03,15.38,19.37
+183,Organic,Hydrogels,Passive,Liver,AH,Spherical,2.21,-30.9,0.34,0.31,0.32,0.14,0.39
+175,Organic,Dendrimers,Active,Breast,AH,Spherical,1.84,-2.1,9.01,8.51,9.01,3.5,10.15
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.03,0,2.84,2.78,2.08,3.16,3.86
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,1.96,0,2.42,2.4,1.79,2.63,3.25
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,1.96,0,2.37,2.32,1.68,3.07,3.43
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.03,0,2.44,2.31,1.79,2.78,3.37
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.03,0,2.19,2.22,1.63,2.36,2.9
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,1.96,0,1.88,1.78,1.75,0.76,2.22
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.01,0,1.71,1.7,1.27,1.98,2.31
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.01,0,1.71,1.7,1.27,1.98,2.31
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.01,0,1.71,1.67,1.41,1.63,2.04
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.07,0,1.53,1.52,1.25,1.71,1.96
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.07,0,1.47,1.37,1.32,0.56,1.82
+161,Organic,Polymeric,Passive,Breast,XH,Spherical,2.07,0,1.17,1.18,0.89,1.08,1.52
+199,Organic,Other OM,Passive,Lung,XH,Spherical,2.09,-13.2,0.87,0.85,0.97,0.29,1.07
+47,Inorganic,Silica,Passive,Colon,AH,Spherical,1.27,,0.29,0.29,0.33,0.1,0.36
+48,Inorganic,Silica,Active,Cervix,XH,Spherical,2.1,-31.6,2.76,2.62,2.66,1.07,3.22
+49,Inorganic,Silica,Passive,Other,AO,Spherical,2.35,-17.9,5.32,5.12,5.32,2.5,8.27
+200,Organic,Other OM,Passive,Skin,AO,Rod,2.28,-10.1,0.11,0.12,0.11,0.03,0.13
+30,Inorganic,Iron Oxide,Active,Prostate,XH,Spherical,2.14,-11.6,0.4,0.37,0.31,0.3,0.52
+31,Inorganic,Iron Oxide,Active,Brain,XH,Spherical,1.83,,0.43,1.17,0.43,0.33,0.45
+31,Inorganic,Iron Oxide,Passive,Brain,XH,Spherical,1.83,,0.2,0.56,0.2,0.15,0.21
+32,Inorganic,Iron Oxide,Passive,Breast,AH,Spherical,1.71,,1.1,1.14,1.1,0.34,1.3
+35,Inorganic,Silica,Active,Brain,XH,Spherical,2.35,-3.5,1.31,1.28,1.26,0.33,1.49
+35,Inorganic,Silica,Passive,Brain,XH,Spherical,2.34,-3.6,0.74,0.74,0.72,0.19,0.84
+36,Inorganic,Silica,Passive,Breast,AH,Spherical,1.77,-7.4,0.32,0.34,0.32,0.14,0.37
+2,Inorganic,Gold,Passive,Colon,AH,Rod,1.48,0,1.62,1.51,0.99,0.79,2.39
+37,Inorganic,Silica,Active,Brain,XH,Spherical,2.11,-10.2,1.36,0.5,1.35,0.36,1.58
+37,Inorganic,Silica,Passive,Brain,XH,Spherical,2.1,-10.9,0.47,0.18,0.47,0.13,0.54
+38,Inorganic,Silica,Active,Breast,AH,Spherical,2.29,-5.1,1.63,1.6,1.63,0.44,1.86
+38,Inorganic,Silica,Passive,Breast,AH,Spherical,2.29,-5.1,0.63,0.63,0.63,0.18,0.69
+39,Inorganic,Silica,Active,Breast,AH,Spherical,2.24,-3.3,0.86,0.84,0.95,0.45,1.14
+39,Inorganic,Silica,Passive,Breast,AH,Spherical,2.24,-3.3,0.41,0.41,0.44,0.19,0.52
+40,Inorganic,Silica,Active,Skin,XO,Spherical,0.85,-3,0.17,0.17,0.29,0.17,0.32
+40,Inorganic,Silica,Passive,Skin,XO,Spherical,0.83,0,0.08,0.07,0.15,0.06,0.17
+41,Inorganic,Silica,Active,Breast,AH,Spherical,2.23,-2.7,0.93,0.95,1.04,0.45,1.24
+41,Inorganic,Silica,Passive,Breast,AH,Spherical,2.18,-2.3,0.5,0.52,0.53,0.34,0.62
+20,Inorganic,Gold,Passive,Breast,AH,Rod,1.62,-0.1,0.76,0.65,0.52,0.49,0.99
+20,Inorganic,Gold,Passive,Breast,AH,Spherical,0.86,-23.5,0.47,0.42,0.47,0.24,0.61
+20,Inorganic,Gold,Passive,Breast,AH,Rod,1.65,-14.1,0.34,0.29,0.31,0.17,0.47
+20,Inorganic,Gold,Passive,Breast,AH,Rod,1.31,-20.2,0.24,0.21,0.18,0.15,0.31
+50,Inorganic,Other IM,Active,Cervix,XH,Spherical,1.73,-12.4,5.96,5.83,5.96,1.74,6.67
+51,Inorganic,Other IM,Active,Brain,XH,Spherical,1.51,,4.27,4.28,4.23,1.16,4.87
+52,Inorganic,Other IM,Passive,Pancreas,XH,Other,2.28,-21.9,0.19,0.21,0.38,0.19,0.44
+3,Inorganic,Gold,Passive,Brain,XH,Spherical,1.58,-5,2.99,3.61,6.64,2.99,7.44
+3,Inorganic,Gold,Active,Brain,XH,Spherical,1.62,-5,2.83,2.85,3.27,2.83,4.18
+53,Inorganic,Other IM,Passive,Colon,AH,Spherical,1.9,-0.5,0.39,0.37,0.39,0.13,0.46
+54,Inorganic,Other IM,Active,Lung,XH,Spherical,2,3,18.96,41.69,16.93,4.77,19.7
+33,Inorganic,Iron Oxide,Active,Breast,XH,Spherical,1.3,,5.25,5.11,2.62,4.28,7.2
+62,Organic,Polymeric,Passive,Lung,AH,Spherical,1.56,-8.5,1.3,1.26,1.11,0.61,1.56
+63,Organic,Polymeric,Active,Breast,AH,Spherical,1.57,,0.89,0.91,1.02,0.36,1.2
+63,Organic,Polymeric,Passive,Breast,AH,Spherical,1.57,,0.5,0.5,0.54,0.35,0.64
+4,Inorganic,Gold,Active,Breast,XH,Other,1.84,-9.3,0.74,0.64,0.42,1.67,1.77
+64,Organic,Polymeric,Passive,skin,XO,Spherical,1.86,-0.5,1.15,1.16,0.73,1.41,1.84
+64,Organic,Polymeric,Passive,skin,XO,Spherical,1.86,-0.5,1.05,1.04,0.96,0.63,1.19
+65,Organic,Polymeric,Passive,Breast,XH,Spherical,1.35,-1.48,0.44,0.17,0.54,0.14,0.65
+66,Organic,Polymeric,Active,Skin,XO,Other,1.94,-24.2,0.06,0.06,0.05,0.02,0.06
+66,Organic,Polymeric,Passive,Skin,XO,Other,1.95,-7,0.02,0.02,0.02,0.01,0.03
+67,Organic,Polymeric,Passive,Ovary,XH,Rod,2.36,-3.2,0.29,0.3,0.41,0.29,0.49
+67,Organic,Polymeric,Passive,Ovary,XH,Other,2.42,-3.4,0.22,0.23,0.4,0.22,0.48
+68,Organic,Polymeric,Passive,Lung,XH,Rod,2.33,-3.4,0.21,0.09,0.72,0.21,0.91
+68,Organic,Polymeric,Passive,Lung,XH,Rod,2.33,-3.1,0.2,0.08,0.72,0.2,0.91
+69,Organic,Polymeric,Active,Breast,XH,Spherical,2.44,-12.1,1.15,1.26,1.64,2.15,3.23
+69,Organic,Polymeric,Passive,Breast,XH,Spherical,2.34,-14.3,0.43,0.42,0.4,0.1,0.48
+70,Organic,Polymeric,Passive,Pancreas,XH,Spherical,1.48,-2.3,0.91,0.98,0.91,0.51,1.35
+70,Organic,Polymeric,Passive,Colon,AH,Spherical,1.84,-0.9,0.91,0.91,0.91,0.4,1.17
+70,Organic,Polymeric,Passive,Colon,AH,Spherical,1.73,-1.6,0.81,0.82,0.81,0.43,1.11
+70,Organic,Polymeric,Passive,Colon,AH,Spherical,1.48,-2.3,0.78,0.8,0.78,1.39,1.71
+70,Organic,Polymeric,Passive,Colon,AH,Spherical,2.04,0.2,0.7,0.7,0.7,0.33,0.99
+70,Organic,Polymeric,Passive,Pancreas,XH,Spherical,1.73,-1.6,0.6,0.63,0.6,0.31,0.85
+70,Organic,Polymeric,Passive,Pancreas,XH,Spherical,2.04,0.2,0.37,0.39,0.37,0.16,0.47
+70,Organic,Polymeric,Passive,Pancreas,XH,Spherical,1.84,-0.9,0.39,0.39,0.39,0.17,0.5
+5,Inorganic,Gold,Active,Skin,XO,Spherical,1.69,-0.6,25.2,25.07,22.86,11,29.88
+5,Inorganic,Gold,Active,Skin,XO,Spherical,1.78,-11,25.83,23.86,26.63,9.94,30.24
+5,Inorganic,Gold,Active,Skin,XO,Spherical,2,-9,24.4,21.37,26.87,8.77,29.78
+5,Inorganic,Gold,Passive,Skin,XO,Spherical,1.67,-6.7,19.38,18.64,18.11,7.79,23.4
+5,Inorganic,Gold,Passive,Skin,XO,Spherical,1.81,-15,14.63,14.28,14.71,5.47,17.52
+5,Inorganic,Gold,Passive,Skin,XO,Spherical,2.02,-10,12.17,11.19,11.98,4.53,14.77
+5,Inorganic,Gold,Active,Skin,XO,Spherical,2.24,-5,8.79,8.21,9.61,2.98,11.15
+5,Inorganic,Gold,Passive,Skin,XO,Spherical,2.22,-6,5.18,4.94,5.63,4.25,6.41
+71,Organic,Polymeric,Active,Breast,AH,Spherical,1.85,4,0.6,0.63,0.6,0.77,0.92
+71,Organic,Polymeric,Active,Breast,AH,Spherical,1.94,2,0.5,0.49,0.5,0.64,0.77
+71,Organic,Polymeric,Passive,Breast,AH,Spherical,1.81,3,0.36,0.36,0.36,0.14,0.41
+72,Organic,Polymeric,Passive,Colon,AH,Spherical,1.95,-1,0.31,0.33,0.31,0.14,0.36
+72,Organic,Polymeric,Passive,Colon,AH,Spherical,1.94,-0.5,0.19,0.21,0.19,0.08,0.22
+73,Organic,Polymeric,Active,Cervix,XH,Spherical,1.89,-7,0.76,0.78,0.76,0.96,1.15
+73,Organic,Polymeric,Active,Cervix,XH,Spherical,1.96,-9.3,0.74,0.74,0.74,0.95,1.15
+73,Organic,Polymeric,Active,Cervix,XH,Spherical,1.84,-2,0.7,0.73,0.7,0.89,1.07
+73,Organic,Polymeric,Active,Cervix,XH,Spherical,1.86,-2.3,0.66,0.68,0.66,0.85,1.02
+73,Organic,Polymeric,Passive,Cervix,XH,Spherical,1.81,-0.4,0.63,0.67,0.63,0.7,0.88
+73,Organic,Polymeric,Active,Cervix,XH,Spherical,1.84,-1.1,0.58,0.59,0.58,0.74,0.89
+74,Organic,Polymeric,Passive,Colon,AH,Spherical,1.6,-2,1.5,1.54,1.08,0.85,2.02
+75,Organic,Polymeric,Active,Breast,AO,Spherical,1.35,0,4.51,4.52,3.87,3.99,5.82
+76,Organic,Polymeric,Passive,Colon,AH,Spherical,1.81,-2,1.17,1.13,1.07,0.55,1.35
+77,Organic,Polymeric,Passive,Other,AH,Spherical,2.35,,1.96,1.95,2.16,1.58,2.45
+78,Organic,Polymeric,Passive,Cervix,XH,Spherical,1.3,,0.31,0.3,0.31,0.09,0.34
+78,Organic,Polymeric,Active,Cervix,XH,Spherical,1.3,,0.23,0.24,0.23,0.06,0.25
+79,Organic,Polymeric,Passive,Breast,AH,Spherical,2.13,-15.8,0.8,0.95,0.8,0.22,0.91
+6,Inorganic,Gold,Passive,Brain,XH,Spherical,0.79,,1.13,1.12,1.13,0.37,1.34
+80,Organic,Polymeric,Passive,Liver,AH,Spherical,2.17,-13.2,10.67,10.53,10.67,2.92,12.47
+80,Organic,Polymeric,Passive,Liver,AH,Spherical,2.2,-23.2,9.01,8.84,9.01,2.45,10.56
+80,Organic,Polymeric,Passive,Liver,AH,Spherical,2.19,-38.4,8.4,7.66,8.4,2.28,9.9
+80,Organic,Polymeric,Passive,Liver,AH,Spherical,2.18,34.6,4.36,3.94,4.36,1.17,5.09
+80,Organic,Polymeric,Passive,Liver,AH,Spherical,2.66,-25.1,4.13,3.59,4.13,1.21,4.74
+80,Organic,Polymeric,Passive,Liver,AH,Spherical,2.18,25.5,3.54,2.96,3.54,0.94,4.16
+80,Organic,Polymeric,Passive,Liver,AH,Spherical,2.18,14.8,2.43,1.94,2.43,0.65,2.85
+80,Organic,Polymeric,Passive,Liver,AH,Spherical,2.48,24.4,2.38,1.77,2.38,0.64,2.78
+81,Organic,Polymeric,Passive,Colon,AH,Spherical,1.6,-4,1.35,0.94,0.98,0.75,1.81
+82,Organic,Polymeric,Passive,Breast,AH,Spherical,2.44,16.4,3.2,3.28,3.2,0.89,3.64
+82,Organic,Polymeric,Passive,Breast,AH,Spherical,2.6,38.1,0.58,0.62,0.58,0.16,0.67
+83,Organic,Other OM,Active,Breast,AH,Plate,1.57,-2,0.97,0.99,1.05,0.44,1.24
+83,Organic,Other OM,Passive,Breast,AH,Plate,1.42,-16.4,0.46,0.46,0.53,0.23,0.64
+84,Organic,Other OM,Active,Breast,AH,Plate,1.43,-0.1,0.89,0.89,0.98,0.41,1.18
+84,Organic,Other OM,Passive,Breast,AH,Plate,1.34,-9.5,0.46,0.46,0.42,0.45,0.52
+85,Organic,Other OM,Passive,Skin,AO,Plate,1.95,-30,6.93,9.72,6.93,1.88,8.07
+86,Organic,Other OM,Active,Brain,XH,Plate,1.52,-5,0.39,0.37,0.47,0.17,0.56
+86,Organic,Other OM,Passive,Brain,XH,Plate,1.44,-9.5,0.21,0.21,0.24,0.15,0.3
+87,Organic,Other OM,Active,Breast,AH,Plate,1.43,-0.1,0.99,1.04,0.99,0.28,1.06
+87,Organic,Other OM,Passive,Breast,AH,Plate,1.34,-9.5,0.64,0.68,0.64,0.43,0.75
+88,Organic,Other OM,Active,Brain,XH,Rod,0.4,,3.6,3.56,3.6,1.18,3.97
+88,Organic,Other OM,Active,Brain,XH,Rod,0.4,,1.26,1.25,1.26,0.43,1.44
+88,Organic,Other OM,Passive,Brain,XH,Rod,0.4,,1.14,1.14,1.14,0.38,1.29
+88,Organic,Other OM,Passive,Brain,XH,Rod,0.4,,0.8,0.79,0.8,0.25,0.85
+89,Organic,Liposomes,Passive,Cervix,XO,Spherical,1.98,-59.4,1.85,1.91,1.26,1.77,2.2
+7,Inorganic,Gold,Passive,Prostate,XH,Spherical,1.44,,0.13,0.06,0.11,0.03,0.14
+90,Organic,Liposomes,Passive,Breast,Other,Spherical,1.9,-36.1,0.4,0.43,0.39,0.38,0.47
+90,Organic,Liposomes,Passive,Breast,AO,Spherical,1.9,-36.1,0.15,0.15,0.13,0.14,0.17
+91,Organic,Liposomes,Active,Breast,AH,Spherical,2.59,20,1.68,1.66,1.68,0.54,1.73
+92,Organic,Liposomes,Passive,Breast,AO,Spherical,2.08,0,0.97,0.93,0.84,0.5,1.14
+93,Organic,Liposomes,Passive,Kidney,XH,Spherical,1.4,-3,0.1,0.1,0.1,0.03,0.12
+93,Organic,Liposomes,Passive,Kidney,XH,Spherical,1.97,-6,0.07,0.07,0.07,0.03,0.1
+93,Organic,Liposomes,Passive,Kidney,XH,Spherical,1.71,-4,0.06,0.06,0.06,0.02,0.06
+94,Organic,Liposomes,Active,Colon,AH,Spherical,2.35,,0.92,0.88,0.75,0.99,1.1
+94,Organic,Liposomes,Passive,Colon,AH,Spherical,2.23,,0.52,0.52,0.58,0.41,0.65
+8,Inorganic,Gold,Passive,Cervix,XH,Spherical,1.23,-9.8,1.24,1.13,1.02,0.76,1.55
+8,Inorganic,Gold,Passive,Cervix,XH,Spherical,1.49,-10.5,0.64,0.54,0.7,0.32,0.86
+95,Organic,Liposomes,Passive,Colon,AH,Spherical,2.07,0,0.53,0.55,0.53,0.15,0.61
+96,Organic,Liposomes,Passive,Other,XH,Spherical,2.3,-2,0.82,0.43,0.82,0.23,0.96
+97,Organic,Liposomes,Passive,Skin,XO,Spherical,2,0,0.94,0.96,1.4,0.55,1.59
+98,Organic,Hydrogels,Active,Breast,AH,Spherical,2.35,-13.1,0.07,0.09,0.07,0.19,0.22
+98,Organic,Hydrogels,Active,Breast,AH,Spherical,2.38,-10.8,0.05,0.07,0.05,0.14,0.16
+98,Organic,Hydrogels,Active,Breast,AH,Spherical,2.34,-13.5,0.03,0.05,0.03,0.09,0.11
+98,Organic,Hydrogels,Active,Breast,AH,Spherical,2.3,-14,0.03,0.04,0.03,0.09,0.11
+99,Organic,Hydrogels,Active,Liver,AH,Spherical,1.7,-45,0.13,0.12,0.18,0.1,0.21
